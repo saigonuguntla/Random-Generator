@@ -1,0 +1,29 @@
+img{
+  height: 300px;
+  width: 30%;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+@media screen and (max-width: 900px)
+{
+  img{
+
+  }
+
+div
+{
+  margin-left: 150px;
+  margin-right: 50px;
+}
+
+.inline {
+  display: inline;
+  padding: 15px;
+}
+
+.Places {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}

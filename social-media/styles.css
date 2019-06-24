@@ -1,0 +1,16 @@
+p {
+  margin-left:100px;
+  margin-right: 100px;
+  display: inline-block;
+}
+
+h2 {
+  margin-left: 200px;
+  margin-right: 100px;
+  display: inline-block;
+}
+
+img{
+  display: inline-block;
+  width: "20%"
+}
